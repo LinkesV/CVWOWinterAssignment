@@ -1,5 +1,4 @@
-# CVWOWinterAssignment
-
+Forum Application FrontEnd
 DEPLOYED APP: https://famous-crumble-a83c84.netlify.app
 
 

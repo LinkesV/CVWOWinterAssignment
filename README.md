@@ -1,4 +1,4 @@
-Forum Application FrontEnd deployed app-lication: https://famous-crumble-a83c84.netlify.app
+Forum Application FrontEnd deployed application: https://famous-crumble-a83c84.netlify.app
 
 
 IF HOSTING THE WEBSITE LOCALLY,

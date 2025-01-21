@@ -71,7 +71,7 @@ function UserLogin() {
   return (
     <div className='loginPage'>
         <div className='innerBox'>
-        <p className='titleLogin'>CVWO WINTER ASSIGNMENT 2024 WEB FORUM LOGIN</p>
+        <p className='titleLogin'>WEB FORUM LOGIN</p>
         <Form style={{display:"flex", flexDirection:"column"}}>
         <Form.Group className="mb-3" controlId="formBasicUsername">
           <Form.Label>Username:</Form.Label>
